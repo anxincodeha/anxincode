@@ -1,4 +1,4 @@
-> 本文收录于公众号「安心代码」和github开源项目「anxincode」：[https://github.com/anxincodeha/anxincode](https://github.com/anxincodeha/anxincode)，公众号内回复「笔记」或者查看github项目README.md即可获取所有的编程学习笔记和资料📝，欢迎大家关注👀和star⭐️
+> 本文收录于公众号「安心代码」和github开源项目「[anxincode](https://github.com/anxincodeha/anxincode)」：[https://github.com/anxincodeha/anxincode](https://github.com/anxincodeha/anxincode)，公众号内回复「笔记」或者查看github项目README.md即可获取所有的编程学习笔记和资料📝，欢迎大家关注👀和star⭐️
 >
 > ![](.\..\欢迎关注公众号“安心代码”.png)
 >
