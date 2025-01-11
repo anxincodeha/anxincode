@@ -1,6 +1,6 @@
 > 本文收录于公众号「安心代码」和github开源项目「anxincode」：https://github.com/anxincodeha/anxincode，公众号内回复「笔记」或者查看github项目README.md即可获取所有的编程学习笔记和资料📝，欢迎大家关注👀和star⭐️
 >
-> ![欢迎关注公众号“安心代码”](https://raw.githubusercontent.com/anxincodeha/anxincode/refs/heads/main/%E6%AC%A2%E8%BF%8E%E5%85%B3%E6%B3%A8%E5%85%AC%E4%BC%97%E5%8F%B7%E2%80%9C%E5%AE%89%E5%BF%83%E4%BB%A3%E7%A0%81%E2%80%9D.png)
+> ![](https://raw.githubusercontent.com/anxincodeha/anxincode/refs/heads/main/%E6%AC%A2%E8%BF%8E%E5%85%B3%E6%B3%A8%E5%85%AC%E4%BC%97%E5%8F%B7%E2%80%9C%E5%AE%89%E5%BF%83%E4%BB%A3%E7%A0%81%E2%80%9D.png)
 
 安心代码，我是安心❤️💻😊朋友们好呀👋✨~~~在这篇文章中介绍下如何在 VMWARE 中一次安装成功 CentOS7📝⚙️🛠️✅
 
