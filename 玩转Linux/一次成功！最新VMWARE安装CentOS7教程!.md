@@ -1,4 +1,6 @@
 > 本文收录于**公众号**「[**安心代码**](https://www.yuque.com/anxincode/dhdqgs/kbur0qozkulu6413?singleDoc#%20%E3%80%8A%E5%85%AC%E4%BC%97%E5%8F%B7%E5%9C%B0%E5%9D%80%E3%80%8B)」和**github开源项目**「[**anxincode**](https://github.com/anxincodeha/anxincode)」：[https://github.com/anxincodeha/anxincode](https://github.com/anxincodeha/anxincode)，**公众号内回复**「**笔记**」或者**查看github项目README.md即可获取所有的编程学习笔记和资料**📝，欢迎大家关注👀和star⭐：
+> ![欢迎关注公众号“安心代码”](https://github.com/user-attachments/assets/cb106131-5019-4c1f-85e8-cbed6cf8932e)
+
 
 安心代码，我是安心❤️💻😊朋友们好呀👋✨~~~在这篇文章中介绍下如何在 VMWARE 中一次安装成功 CentOS7📝⚙️🛠️✅
 
